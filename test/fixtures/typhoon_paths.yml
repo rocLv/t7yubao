@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  typhoon_id: 
+  then_time: 
+  latitude: 
+  longitude: 
+  wind: 
+  pressure: 
+  range_50_knots_of_NE: 1
+  range_30_knots_NE: 
+  range_50_knots_of_SE: 
+  range_30_knots_of_SE: 
+  range_50_knots_of_SW: 
+  range_30_knots_of_NW: 1
+
+two:
+  typhoon_id: 
+  then_time: 
+  latitude: 
+  longitude: 
+  wind: 
+  pressure: 
+  range_50_knots_of_NE: 1
+  range_30_knots_NE: 
+  range_50_knots_of_SE: 
+  range_30_knots_of_SE: 
+  range_50_knots_of_SW: 
+  range_30_knots_of_NW: 1
