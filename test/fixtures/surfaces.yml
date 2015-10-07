@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  station: 
+  latitude: 
+  longitude: 
+  height: 
+  rank: 
+  sum_of_cloud: 
+  wind_dir: 
+  wind_speed: 
+  pressure: 
+  pressure_change_3h: 
+  past_weather_1: 
+  past_weather_2: 
+  precipitation: 
+  status_of_low_cloud: 
+  amount_of_low_cloud: 
+  height_of_low_cloud: 
+  dew_poin: 
+  visibility: 
+  weather: 
+  t: 
+  status_of_mid_cloud: 
+  status_of_high_cloud: 
+  temprature_change_24h: 
+  pressure_change_24h: 1
+
+two:
+  station: 
+  latitude: 
+  longitude: 
+  height: 
+  rank: 
+  sum_of_cloud: 
+  wind_dir: 
+  wind_speed: 
+  pressure: 
+  pressure_change_3h: 
+  past_weather_1: 
+  past_weather_2: 
+  precipitation: 
+  status_of_low_cloud: 
+  amount_of_low_cloud: 
+  height_of_low_cloud: 
+  dew_poin: 
+  visibility: 
+  weather: 
+  t: 
+  status_of_mid_cloud: 
+  status_of_high_cloud: 
+  temprature_change_24h: 
+  pressure_change_24h: 1

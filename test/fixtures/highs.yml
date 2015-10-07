@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timers: 2015-10-07 10:14:23
+  station: 1
+  level: 1
+  height: 1.5
+  temprature: 1.5
+  t-td: 1.5
+  wind_dir: 1.5
+  wind_speed: 1.5
+
+two:
+  timers: 2015-10-07 10:14:23
+  station: 1
+  level: 1
+  height: 1.5
+  temprature: 1.5
+  t-td: 1.5
+  wind_dir: 1.5
+  wind_speed: 1.5
